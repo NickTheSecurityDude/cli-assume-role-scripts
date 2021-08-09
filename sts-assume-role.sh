@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+#set -e
 
 echo "Usage: source sts-assume-role.sh <role> (<external-id>)"
 
