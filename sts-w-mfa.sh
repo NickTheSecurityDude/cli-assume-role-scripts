@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+#set -e
 
 echo "Usage: source sts-w-mfa.sh <token-code>"
 
